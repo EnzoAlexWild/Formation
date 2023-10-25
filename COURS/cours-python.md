@@ -95,7 +95,7 @@ nombre2 = int("123")  # Convertit une chaîne de caractères en entier
 
 ##### Règles pour Nommer des Variables 
 
-Les noms de variables doivent commencer par une lettre (a-z, A-Z) ou un tiret bas ` _`.
+Les noms de variables doivent commencer par une lettre (a-z, A-Z) ou un tiret bas `_`.
 Les caractères suivants dans le nom de la variable peuvent inclure des lettres, des chiffres (0-9) ou des tirets bas `_`.
 Les noms de variables sont sensibles à la casse, ce qui signifie que `nom` et `Nom` sont considérés comme des variables différentes.
 Évitez d'utiliser des noms de variables réservés par Python, tels que `if`, `else`, `while`, etc.
