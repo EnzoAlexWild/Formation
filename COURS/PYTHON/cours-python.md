@@ -631,7 +631,7 @@ mon_ensemble.remove(2)  # Supprime l'élément 2 de l'ensemble
 
 Utilisez les ensembles pour stocker des collections d'éléments uniques et effectuer des opérations d'ensembles en Python.
 
-# Gestion d'Erreurs en Python
+# Gestion des Erreurs en Python
 
 La gestion d'erreurs est une partie essentielle de la programmation, permettant de traiter les exceptions et les situations imprévues. En Python, vous pouvez gérer les exceptions en utilisant des blocs `try`, `except`, et `finally`. Dans ce document, nous explorerons la gestion des exceptions en Python.
 
