@@ -9,7 +9,7 @@
 > + [Tuples](cours-python.md#Tuples-en-Python)
 > + [Dictionnaires](cours-python.md#Dictionnaires-en-Python)
 > + [Ensembles](cours-python.md#Ensembles-en-Python)
-> + [Gestion d'Erreurs](cours-python.md#Gestion-d-'-Erreurs-en-Python)
+> + [Gestion d'Erreurs](cours-python.md#Gestion-d'Erreurs-en-Python)
 > + [Fichiers](cours-python.md#Manipulation-de-Fichiers-en-Python)
 > + [Modules et Packages](cours-python.md#Modules-et-Packages-en-Python)
 > + [Orienté Objet](cours-python.md#Programmation-Orientée-Objet-en-Python)
